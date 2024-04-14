@@ -1,0 +1,234 @@
+*{
+    margin:0;
+    font-family: arial;
+    border: border-box;
+}
+.text{
+    height: 70px;
+    background-color: black;
+    text-align: center;
+    color: pink;
+}
+
+.fa-solid.fa-house-medical-circle-check{
+    height: 10px;
+    width:30px;
+    margin-right: 550px;
+    margin-top: -25px;
+    color: green;
+}
+.text1{
+    padding-top: 15px;
+}
+.signin{
+    margin-left: 995px;
+    color: white;
+    margin-top: -20px;
+
+}
+.signout{
+    margin-left: 1130px;
+    color: white;
+    margin-top: -19px;
+}
+.slap{
+    margin-top: -16px;
+    margin-right: 73px;
+}
+.fa-solid.fa-bars{
+    font-size: 30px;
+    margin-left: 1300px;
+    margin-top: -30px;
+}
+.fa-solid.fa-house{
+    color: white;
+    font-size: 30px;
+    margin-top: -45px;
+    margin-left: 20px;
+}
+.second{
+    height: 2400px;
+    background-color: #097969;
+}
+.search{
+    text-align: center;
+}
+.search1{
+    width: 300px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: 1px solid grey;
+    outline: none;
+    align-items: center;
+}
+.space{
+    margin-left: 20px;
+}
+.image{
+    height: 180px;
+    width: 180px;
+    margin-left: 1300px;
+    margin-top: -120px;
+}
+
+.no{
+    color: white;
+}
+.change{
+    margin-left: 300px;
+    margin-top: -120px;
+}
+
+.area{
+    padding: 10px;
+    margin-top: 180px;
+    margin-left: 80px;
+    border-radius: 20px;
+    background-color: orange;
+    color: black;
+
+}
+
+.pic{
+    
+    height: 260px;
+    width: 300px;
+    margin-left: 800px;
+    margin-top: -230px;
+}
+.pic1{
+    height: 260px;
+    width: 300px;
+    margin-left: 1110px;
+    margin-top: -180px;
+}
+
+.area1{
+    margin-left: 840px;
+    border-radius: 20px;
+    background-color: greenyellow;
+    color: black;
+    margin-top: 100px;
+
+}
+
+.pic3{
+    height: 260px;
+    width: 300px;
+    margin-left: 70px;
+    margin-top: -260px;
+
+}
+.pic4{
+    height: 280px;
+    width: 330px;
+    margin-left: 360px;
+    margin-top: -200px;
+
+}
+.area3{
+ margin-left: 60px;
+    border-radius: 20px;
+    background-color: royalblue;
+    color: black;
+    margin-top: 100px;
+}
+
+.pic5{
+ 
+    height: 260px;
+    width: 300px;
+    margin-left: 800px;
+    margin-top: -230px;
+}
+.pic6{
+    height: 260px;
+    width: 300px;
+    margin-left: 1110px;
+    margin-top: -180px;
+}
+.area4{
+    margin-left: 840px;
+    border-radius: 20px;
+    background-color: tomato;
+    color: black;
+    margin-top: 100px;
+}
+.pic7{
+    height: 260px;
+    width: 300px;
+    margin-left: 70px;
+    margin-top: -260px;
+}
+.pic8{
+    height: 280px;
+    width: 330px;
+    margin-left: 360px;
+    margin-top: -200px;
+}
+
+.third{
+    height: 300px;
+    background-color: black;
+}
+.foot-panel1{
+    background-color: #37475ade;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot-panel2 a{
+    color: white;
+}
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    margin-top: 20px;
+}
+/* for ek line me sb ko lane ke liye */
+ul a {
+    display: block;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+.he{
+    font-size: 1rem;
+}
+
+.foot-panel3{
+    background-color: #222f3d;
+    height: 100px;
+    border: 1.5px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    background-image: url(ama.png);
+    height: 50px;
+    width: 150px;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+
+.copy{
+    color: #999;
+    font-size: 14px;
+    padding: 10px 0;
+    margin-left: 800px;
+}
+
+.policy{
+    margin-right: 100px;
+    color: #999;
+}
